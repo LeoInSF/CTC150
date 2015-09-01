@@ -11,6 +11,7 @@ def unique_string(input_string):
 		    return False
 
 if __name__ == "__main__":
+	
 	s = sys.argv[1]
 	result = unique_string(s)
 	if result:
