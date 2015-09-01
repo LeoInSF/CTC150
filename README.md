@@ -1,2 +1,3 @@
-# CTC150
-Job interview practice
+# CTC150(Cracking the Coding Interview)
+
+Coding practices for CTC150
