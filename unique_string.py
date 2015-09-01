@@ -11,7 +11,9 @@ def unique_string(input_string):
 		    return False
 
 if __name__ == "__main__":
-	
+	if len(sys.argv) != 2:
+		print "Usage: python unique_string.py <String>"
+		exit(-1)	
 	s = sys.argv[1]
 	result = unique_string(s)
 	if result:
