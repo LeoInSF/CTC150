@@ -1,3 +1,4 @@
+# Implement a function reverses a null- terminated string.
 import sys
 
 def reverse_string(input_str):
