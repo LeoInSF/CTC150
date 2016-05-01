@@ -5,3 +5,5 @@ Coding practices for CTC150
 Add another branch (leodev) for testing
 
 Test pull request
+
+Checkout pull request locally
