@@ -26,7 +26,10 @@ def string_compression(string):
         return tmp_str
     else:
         return string
-
+'''
+https://waymoot.org/home/python_string/
+Method 6: List comprehensions is the fastest way to do string concatenation
+'''
 
 class Test(unittest.TestCase):
 
